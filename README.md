@@ -1,2 +1,2 @@
 # English-repo
-for learning html
+for learning html from zero
